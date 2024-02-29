@@ -3,3 +3,4 @@ login
 home page
 profile
 chats
+call bug
