@@ -1,3 +1,4 @@
 signup
 login
 home page
+profile
