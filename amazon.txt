@@ -2,3 +2,4 @@ signup
 login
 home page
 profile
+chats
